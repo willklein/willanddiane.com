@@ -240,3 +240,8 @@ bt {
 	font-size: 40px;
 	color: #1abc9c;
 }
+
+img.profile {
+  height: 192px;
+  width: 256px;
+}
